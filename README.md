@@ -83,7 +83,6 @@ orjinal liste https://github.com/ibrahimirdem/turkce-python-kaynaklari den alın
 
 
 ## Bloglar
-* [ysar.net](http://ysar.net) (Yaşar Arabacı)
 * [sinanerdinc.com](https://www.sinanerdinc.com/) (Sinan Erdinç)
 * [medium.com/@sddkal](https://medium.com/@sddkal) (Sıddık Açıl)
 * [gurayyildirim.com.tr](https://www.gurayyildirim.com.tr) (Güray Yıldırım)
