@@ -50,7 +50,7 @@ orjinal liste https://github.com/ibrahimirdem/turkce-python-kaynaklari den alın
 
 
 ## Eğitim Seti (Video)
-* [Python 3.8 Komple Eğitim Serisi](https://www.youtube.com/playlist?list=PLtTs2BKyiS4C0KLmXx-3k4ho5tfW3Gs5C) (Ferhat Mousavi)
+* [Python 3.11 Komple Eğitim Serisi](https://www.youtube.com/playlist?list=PLtTs2BKyiS4C0KLmXx-3k4ho5tfW3Gs5C) (Ferhat Mousavi)
 * [Yazılım Bilimi Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) (Mustafa Murat Coşkun)
 * :heavy_dollar_sign: [(42 Saat) Python : Sıfırdan İleri Seviye Programlama (2019)](https://www.udemy.com/sifirdan-ileri-seviyeye-python/) (Mustafa Murat Coşkun)
 * [Sıfırdan Python Programlama Dersleri](https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9) (Mert Mekatronik)
