@@ -53,7 +53,7 @@ orjinal liste https://github.com/ibrahimirdem/turkce-python-kaynaklari den alın
 * [Python 3.11 Komple Eğitim Serisi](https://www.youtube.com/playlist?list=PLtTs2BKyiS4C0KLmXx-3k4ho5tfW3Gs5C) (Ferhat Mousavi)
 * [Yazılım Bilimi Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) (Mustafa Murat Coşkun)
 * :heavy_dollar_sign: [(42 Saat) Python : Sıfırdan İleri Seviye Programlama (2019)](https://www.udemy.com/sifirdan-ileri-seviyeye-python/) (Mustafa Murat Coşkun)
-* [Sıfırdan Python Programlama Dersleri](https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9) (Mert Mekatronik)
+* [Sıfırdan İleri Seviye Profesyonel Python Yazılım Geliştiricisi Olma Kursu](https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9) (Mert Sis)
 * [Bilgisayar Bilimi Python Programlama](https://www.youtube.com/playlist?list=PLv5gvG08kLQekD20hqte2ptaV-O_QKybV) (Sinan Urun)
 * [Python 3 Dersleri 2018](https://www.youtube.com/playlist?list=PLmvShhBbNYrTkzcj-darhclgS15EeVQXX) (Yazılım Videoları)
 * [Hızlı Python Öğreniyorum](https://www.udemy.com/hzl-python-ogreniyorum/) (Yavuz Selim Kart)
